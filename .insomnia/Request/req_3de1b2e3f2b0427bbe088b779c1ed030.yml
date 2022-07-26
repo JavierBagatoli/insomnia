@@ -1,0 +1,21 @@
+_id: req_3de1b2e3f2b0427bbe088b779c1ed030
+type: Request
+parentId: fld_2684d9403d7648a08620aa2dcefeca74
+modified: 1656077666570
+created: 1654004618773
+url: https://api.thedogapi.com/v1/images/search
+name: Get Perritos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654005305262
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

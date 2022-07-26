@@ -1,0 +1,10 @@
+_id: fld_9dad1023e44a498e8b0922cdba21117a
+type: RequestGroup
+parentId: wrk_c58a61f1969845339d818788aa04e3bc
+modified: 1656007930789
+created: 1656007930789
+name: AstroX Get
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1656007930789

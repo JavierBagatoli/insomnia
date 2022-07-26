@@ -1,0 +1,21 @@
+_id: req_a4cee3202f5b4908b8eca9fb33580129
+type: Request
+parentId: fld_2684d9403d7648a08620aa2dcefeca74
+modified: 1656077665216
+created: 1654005282868
+url: https://api.thedogapi.com/v1/breeds
+name: Breads all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654005305362
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

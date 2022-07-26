@@ -1,0 +1,21 @@
+_id: req_c3b6f6282a874656b90472018493b5c8
+type: Request
+parentId: fld_9dad1023e44a498e8b0922cdba21117a
+modified: 1656683628642
+created: 1656007944255
+url: "{{ _.url }}/62bce0d92760c17c869de11f"
+name: getEmpleado
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1655006618050.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

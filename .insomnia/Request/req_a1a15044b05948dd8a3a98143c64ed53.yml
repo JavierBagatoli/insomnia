@@ -1,0 +1,21 @@
+_id: req_a1a15044b05948dd8a3a98143c64ed53
+type: Request
+parentId: fld_10755556612b4109a61dca66bed060fb
+modified: 1658272973522
+created: 1658271742296
+url: http://httpbin.org/get
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1658271742296
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_3acb114c6bf64f65b3bd13a742dddec5
+type: Request
+parentId: fld_59b5a7b672d649c7b3976d34b1de58fe
+modified: 1658272719312
+created: 1658272308121
+url: https://reqres.in/api/users
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "name": "Javier",
+        "job": "leader"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_90e492851c414f489490c31e8dc934af
+authentication: {}
+metaSortKey: -1658272308121
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

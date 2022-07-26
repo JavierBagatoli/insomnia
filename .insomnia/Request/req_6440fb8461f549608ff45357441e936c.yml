@@ -1,0 +1,30 @@
+_id: req_6440fb8461f549608ff45357441e936c
+type: Request
+parentId: fld_10755556612b4109a61dca66bed060fb
+modified: 1658272976295
+created: 1658272142030
+url: http://httpbin.org/post
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nombre" : "Javier",
+    	"edad" : 22
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2fd4d235643849a99fac2a6482194996
+authentication: {}
+metaSortKey: -1658271742321
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

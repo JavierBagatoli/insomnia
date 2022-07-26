@@ -1,0 +1,21 @@
+_id: req_ba59d33a525f4e06af34718cfc20c2e8
+type: Request
+parentId: fld_9dad1023e44a498e8b0922cdba21117a
+modified: 1656595787397
+created: 1656008889358
+url: "{{ _.url }}/Empleados?size=5"
+name: getEmpleados
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1655006618100.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

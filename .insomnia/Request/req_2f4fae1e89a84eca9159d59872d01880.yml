@@ -1,0 +1,31 @@
+_id: req_2f4fae1e89a84eca9159d59872d01880
+type: Request
+parentId: wrk_c58a61f1969845339d818788aa04e3bc
+modified: 1658271353260
+created: 1656438209621
+url: "{{ _.url }}/62b5dbbe3df1776ba040cb83"
+name: New Request
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    Content-Type: application/json
+
+    {
+    	"entorno": ["Lucas"],
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5c5355c0c0af42f2bacb603ed55503d3
+authentication: {}
+metaSortKey: -1656438209621
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

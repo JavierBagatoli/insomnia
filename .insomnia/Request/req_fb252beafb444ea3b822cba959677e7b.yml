@@ -1,0 +1,30 @@
+_id: req_fb252beafb444ea3b822cba959677e7b
+type: Request
+parentId: fld_59b5a7b672d649c7b3976d34b1de58fe
+modified: 1658272516535
+created: 1658272445163
+url: https://reqres.in/api/users/5
+name: New Request
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+        	"name": "morpheus",
+        	"job": "zion resident"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_bb5086207e90465faaa86544aaffc20f
+authentication: {}
+metaSortKey: -1658272445163
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

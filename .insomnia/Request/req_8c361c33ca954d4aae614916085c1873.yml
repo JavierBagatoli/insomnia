@@ -1,0 +1,30 @@
+_id: req_8c361c33ca954d4aae614916085c1873
+type: Request
+parentId: fld_10755556612b4109a61dca66bed060fb
+modified: 1658852365694
+created: 1658271751785
+url: http://httpbin.org/put
+name: New Request
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nombre": "Javier",
+    	"Estado": "vivo"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2cc8dd430c924fcd9c9c3cf892a9ef3e
+authentication: {}
+metaSortKey: -1658271742346
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

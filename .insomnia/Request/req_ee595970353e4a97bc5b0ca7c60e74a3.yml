@@ -1,0 +1,26 @@
+_id: req_ee595970353e4a97bc5b0ca7c60e74a3
+type: Request
+parentId: fld_59b5a7b672d649c7b3976d34b1de58fe
+modified: 1658272745771
+created: 1658272388140
+url: https://reqres.in/api/users?page=3
+name: New Request
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_dbd6bccb6631403fac1f09ae64cf1a08
+authentication: {}
+metaSortKey: -1658272388140
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

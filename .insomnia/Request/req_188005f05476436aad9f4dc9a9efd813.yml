@@ -1,0 +1,21 @@
+_id: req_188005f05476436aad9f4dc9a9efd813
+type: Request
+parentId: fld_2684d9403d7648a08620aa2dcefeca74
+modified: 1656077662961
+created: 1654005305312
+url: https://api.TheDogAPI.com/v1/images/search?breed_ids=1
+name: dog by breed
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654005305312
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
