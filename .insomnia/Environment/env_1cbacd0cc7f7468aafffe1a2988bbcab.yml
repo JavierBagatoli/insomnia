@@ -1,0 +1,14 @@
+_id: env_1cbacd0cc7f7468aafffe1a2988bbcab
+type: Environment
+parentId: env_a04e884d200303a941d27fee84440bfafb990cfb
+modified: 1658852365241
+created: 1656007860422
+name: Astro X
+data:
+  url: http://localhost:3001/api/empleados/
+dataPropertyOrder:
+  "&":
+    - url
+color: "#7d69cb"
+isPrivate: false
+metaSortKey: 1656007860422
